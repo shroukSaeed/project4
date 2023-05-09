@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.homep{
+    background-color: brown;
+    background-image: url("../img/4.jpg");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+.search1{
+    border: none;
+    width: 85%;
+}
+.ser-box{
+    width: 70%;
+    color: white;
+    margin-top: 15%;
+}
+#jobs{
+    background-color: rgba(255, 255, 255, 0);
+    border: 0ch;
+}
+.location{
+    color: #4A4A4A;
+}
+.date{
+    color:#647691;
+    
+}
+.job{
+    text-decoration-line: none;
+}
+.job:hover{
+    text-decoration: underline;
+}
+
+.carde{
+    box-shadow:  2px 3px 0 rgba(0,0,0,.03);
+    border: #345a95;
+}
+footer{
+    background-color: #031431;
+    color: white;
+    padding: 50px;
+}
+
+.header{
+    color: white;
+    background-color: #031431;
+}
+.search{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 4px 0px #8888AB;
+
+}
+.forme{
+    background-color: white;
+    border: #efefef solid;
+}
+.cstm-btn{
+    border: none;
+    padding: 6px;
+    color: white;
+    /* margin: 0; */
+}
+.cstm-inp{
+    width: 88%;
+    line-height: 2.2;
+    margin-right: 0%;
+    border: 0;
+}
+a{
+    text-decoration-line: none;
+}

@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url("../img/signin.jpg");
+    background-size: cover;
+}
+.cont{
+    background-color: #fff;
+    
+}
+.bttn{
+    background-color: rgb(110, 110, 225);
+    /* text-align: center; */
+
+
+}
+.btn1{
+    /* background-color: #ffffff00; */
+    border: 0;
+    color: white;
+}
+.btn2{
+    background-color: rgb(87, 87, 246);
+    color: #fff;
+    text-align: center;
+}

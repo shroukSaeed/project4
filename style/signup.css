@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+body{
+    background-image: url("../img/signup.webp");
+    background-size: cover;
+}
+.link{
+    color: white;
+    text-decoration-line: none;
+    background-color: rgb(2, 96, 2);
+    padding: 10px;
+    border-radius: 8px;
+}
+.layer{
+    background-color: rgba(10, 13, 21, 0.375);
+    height:750px;
+}
+li{
+    font-size: 18px;
+}
